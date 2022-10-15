@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exe201-project\\elearnner_be\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {}
+    "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {}
   },
   "projects": {
-    "D:\\exe201-project\\elearnner_be\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {
+    "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exe201-project\\elearnner_be\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
+        "projectUniqueName": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
         "projectName": "ELearnerApi",
-        "projectPath": "D:\\exe201-project\\elearnner_be\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
-        "packagesPath": "C:\\Users\\ngoct\\.nuget\\packages\\",
-        "outputPath": "D:\\exe201-project\\elearnner_be\\ELearnerApi\\ELearnerApi\\obj\\",
+        "projectPath": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
+        "packagesPath": "C:\\Users\\HuyDoan\\.nuget\\packages\\",
+        "outputPath": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ngoct\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HuyDoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
