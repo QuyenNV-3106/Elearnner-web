@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\host\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {
+    "D:\\host\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
+        "projectUniqueName": "D:\\host\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
         "projectName": "ELearnerApi",
-        "projectPath": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
-        "packagesPath": "C:\\Users\\HuyDoan\\.nuget\\packages\\",
-        "outputPath": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\obj\\",
+        "projectPath": "D:\\host\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj",
+        "packagesPath": "C:\\Users\\ngoct\\.nuget\\packages\\",
+        "outputPath": "D:\\host\\Elearnner-web\\ELearnerApi\\ELearnerApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HuyDoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngoct\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,24 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\host\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\host\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\HuyDoan\\.nuget\\packages\\",
-        "outputPath": "D:\\Elearnner-web\\ELearnerApi\\WebApplication1\\obj\\",
+        "projectPath": "D:\\host\\Elearnner-web\\ELearnerApi\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\ngoct\\.nuget\\packages\\",
+        "outputPath": "D:\\host\\Elearnner-web\\ELearnerApi\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HuyDoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngoct\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,8 +111,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {
-                "projectPath": "D:\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj"
+              "D:\\host\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj": {
+                "projectPath": "D:\\host\\Elearnner-web\\ELearnerApi\\ELearnerApi\\ELearnerApi.csproj"
               }
             }
           }
@@ -170,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
