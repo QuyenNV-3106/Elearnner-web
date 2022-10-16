@@ -15,11 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ELearnerApi\ELearnerApi.csproj" />
+    <Folder Include="Pages\Courses\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Courses\" />
+    <ProjectReference Include="..\ElearnnerApi\ElearnnerApi.csproj" />
   </ItemGroup>
 
 </Project>

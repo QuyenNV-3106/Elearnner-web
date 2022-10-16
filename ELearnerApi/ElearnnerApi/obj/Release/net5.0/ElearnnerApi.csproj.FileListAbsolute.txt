@@ -1,0 +1,15 @@
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\bin\Release\net5.0\ElearnnerApi.deps.json
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\bin\Release\net5.0\ElearnnerApi.runtimeconfig.json
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\bin\Release\net5.0\ElearnnerApi.runtimeconfig.dev.json
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\bin\Release\net5.0\ElearnnerApi.dll
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\bin\Release\net5.0\ElearnnerApi.pdb
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.csproj.AssemblyReference.cache
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.AssemblyInfoInputs.cache
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.AssemblyInfo.cs
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.csproj.CoreCompileInputs.cache
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.dll
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\refint\ElearnnerApi.dll
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.pdb
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ElearnnerApi.genruntimeconfig.cache
+D:\host\Elearnner-web\ELearnerApi\ElearnnerApi\obj\Release\net5.0\ref\ElearnnerApi.dll
