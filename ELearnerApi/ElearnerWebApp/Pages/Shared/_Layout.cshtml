@@ -18,12 +18,18 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                       {
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
+                            <a class="nav-link text-dark justify-content-end" asp-area="" asp-page="/Auth/Logout">Logout</a>
+                        </li>   
+                       }
+                       @if (!User.Identity.IsAuthenticated)
+                       {
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
+                            <a class="nav-link text-dark justify-content-end" asp-area="" asp-page="/Auth/Login">Login</a>
+                        </li>   
+                       }
                     </ul>
                 </div>
             </div>

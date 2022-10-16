@@ -68,7 +68,7 @@ namespace ElearnerWebApp.Pages.Auth
                 var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, Account.Email),
-                    new Claim(ClaimTypes.Role, Account.Role),
+                    new Claim(ClaimTypes.Role, "Admin"),
 
                 };
                 var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -83,15 +83,21 @@ namespace ElearnerWebApp.Pages.Auth
                 {
                     return RedirectToPage("/Topics/Index");
                 }
+                if (user.Role == "user")
+                {
+                    return RedirectToPage("/Topics/Index");
+                }if (user.Role == "teacher")
+                {
+                    return RedirectToPage("/TopicsTeacher/TopicTeacher");
+                }
+                
             }
             else
             {
-
+                ViewData["Message"] = "Wrong email or password";
+                return Page();
             }
 
-
-            _context.Accounts.Add(Account);
-            await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");
         }

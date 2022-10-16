@@ -161,3 +161,4 @@ D:\Elearnner-web\ELearnerApi\ElearnerWebApp\obj\Debug\net5.0\Razor\Pages\Topics\
 D:\Elearnner-web\ELearnerApi\ElearnerWebApp\obj\Debug\net5.0\Razor\Pages\Topics\Details.cshtml.g.cs
 D:\Elearnner-web\ELearnerApi\ElearnerWebApp\obj\Debug\net5.0\Razor\Pages\Topics\Edit.cshtml.g.cs
 D:\Elearnner-web\ELearnerApi\ElearnerWebApp\obj\Debug\net5.0\Razor\Pages\Topics\Index.cshtml.g.cs
+D:\Elearnner-web\ELearnerApi\ElearnerWebApp\obj\Debug\net5.0\Razor\Pages\TopicsTeacher\TopicTeacher.cshtml.g.cs
