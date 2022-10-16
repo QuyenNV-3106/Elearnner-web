@@ -41,7 +41,8 @@
                 @Html.DisplayFor(modelItem => item.SubTitle)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImgUrl)
+                @*@Html.DisplayFor(modelItem => item.ImgUrl)*@
+                 <img class="img-fluid" src="@item.ImgUrl" />
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Kind)
